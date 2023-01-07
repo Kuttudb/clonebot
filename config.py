@@ -20,7 +20,7 @@ class Config(object):
 
     # Get a bot token from botfather
 
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "2055718473:AAHGch-ioqCoYkzTkMtw0SDG1UkYK91IQWc")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "1998090851:AAEabmVjBZvE1cCd78zJ5-reJeeX69rlU0A")
 
     # Get from my.telegram.org
 
